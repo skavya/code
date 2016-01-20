@@ -1,1 +1,1 @@
-blink led p1.0 using rs-485 in msp430g2553
+sample programs in MSP430G2553
